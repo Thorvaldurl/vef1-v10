@@ -13,6 +13,6 @@ const canvas = document.createElement("canvas");
 const ctx = canvas.getContext("2d");
 const pattern = ctx.createPattern(patternCanvas, "repeat");
 ctx.fillStyle = pattern;
-ctx.fillRect(0, 0, canvas.width, canvas.height);
+ctx.fillRect(0, 0, 300, 200);
 
 document.body.appendChild(canvas);

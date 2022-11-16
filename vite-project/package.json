@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": " ./*.js --fix",
+    "lint": "eslint /*.js",
     "sass": "sass  canvas.js munstur.js -w"
   },
   "devDependencies": {
