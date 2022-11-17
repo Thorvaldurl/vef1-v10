@@ -1,0 +1,1 @@
+Hér má sjá tvær síður báðar nota Canvas API. Í annarri þeirra eru teiknuð nokkur form og spýtukall, í hinni var búinn til nokkurs kona lego kubbur.
